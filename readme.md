@@ -1,6 +1,6 @@
 
 
-ym-Admin 是一个开箱即用的Laravel后台扩展
+Ym-Admin 是一个开箱即用的Laravel后台扩展
 
 前后端分离，简单的几行代码即可创建一个`vue`+`vuex`+`vue-route`+`elment-ui`+`laravel`的项目
 
