@@ -1,6 +1,6 @@
-![logo](./docs/README.assets/logo-1584436939847.png)
 
-Laravel-Vue-Admin 是一个开箱即用的Laravel后台扩展
+
+Ym-Admin 是一个开箱即用的Laravel后台扩展
 
 前后端分离，简单的几行代码即可创建一个`vue`+`vuex`+`vue-route`+`elment-ui`+`laravel`的项目
 
@@ -57,14 +57,9 @@ php artisan view:clear
 ```
 最后不要忘记清理浏览器缓存，如果有CDN也要更新CDN的缓存
 
-# 感谢
-
-- [ZFont找字体](http://zfont.cn)
-
-
 
 
 # 支持
 
-如果你觉得 Laravel-Vue-Admin 节省了你的开发时间，让你少加班，让你能更早的回家陪女友或者打游戏，能让你更快速的挣到钱，那么请支持我，让我能继续的将 Laravel-Vue-Admin 做好，做下去！
+如果你觉得 Ym-Admin 节省了你的开发时间，让你少加班，让你能更早的回家陪女友或者打游戏，能让你更快速的挣到钱，那么请支持我，让我能继续的将 Ym-Admin 做好，做下去！
 
