@@ -19,7 +19,7 @@ composer require ymphp/ym-admin
 
 然后运行下面的命令来发布资源：
 ``` bash
-php artisan vendor:publish --provider="YmPhp\\YmAdmin\AdminServiceProvider"
+php artisan vendor:publish --provider="YmPhp\YmAdmin\AdminServiceProvider"
 ```
 在该命令会生成配置文件`config/admin.php`，可以在里面修改安装的地址、数据库连接、以及表名，建议都是用默认配置不修改。
 然后运行下面的命令完成安装：
@@ -40,17 +40,17 @@ composer require ymphp/ym-admin
 ```
  更新到开发版
 ```bash
-composer require ymphp/ym-admin:dev-master
+composer require ymphp/ym-admin:dev-main
 ```
 更新资源文件
 
 发布静态资源文件(必须)
 ```bash
-php artisan vendor:publish --tag=ym-admin-assets --force
+php artisan vendor:publish --tag=assets --force
 ```
 ```bash
 // 发布语言包文件
-php artisan vendor:publish --tag=ym-admin-lang --force
+php artisan vendor:publish --tag=lang --force
 
 // 清理视图缓存
 php artisan view:clear
