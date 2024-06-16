@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNamespace;
+
+use YmPhp\YmAdmin\Controllers\AuthController as BaseAuthController;
+
+class AuthController extends BaseAuthController
+{
+
+}
